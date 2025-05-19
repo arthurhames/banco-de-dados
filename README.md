@@ -1,5 +1,6 @@
 # banco-de-dados
 
+-
 relacional (sql)
 tabelas, colunas, linhas
 mysql, postgressql, oracle
